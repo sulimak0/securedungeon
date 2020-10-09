@@ -10,7 +10,7 @@ Secure Server is a telegram bot for controlling the system and alarming users.
 
 
 
-![](/home/mau0/go/src/github.com/sulimak0/securedungeon/docs/securedungeondiagram.png)
+![](https://raw.githubusercontent.com/sulimak0/securedungeon/master/docs/securedungeondiagram.png)
 
 
 
